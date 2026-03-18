@@ -12,7 +12,7 @@ if os.path.exists("requirements.txt"):
 
 setup(
     name="smartcalc-mlops-sunilakiran",
-    version="0.1.0",
+    version="0.1.1",
     author="sunilakiran",
     description="A Smart Calculator Python package with ML features built with MLOps best practices.",
     long_description=long_description,
